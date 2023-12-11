@@ -1,9 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-	images: {
-		loader: 'imgix',
-		path: 'https://hukvadim.github.io/react-next-shop/',
-	  },
-}
+const nextConfig = {}
 
 module.exports = nextConfig
