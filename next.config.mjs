@@ -3,7 +3,7 @@ const nextConfig = {
     reactStrictMode: true,
 
     // Add basePath
-    basePath: "/github-pages",
+    basePath: "/react-next-shop",
 };
 
 export default nextConfig;
