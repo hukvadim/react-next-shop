@@ -4,7 +4,7 @@ const CardProduct = () => {
 	return (
 		<div className="card-product">
 			<div className="card-product__img-hold">
-				<Image src="/img/catalog/1.png" alt="" className="card-product__img" width={264} height={264} priority={true}/>
+				<Image src="/img/catalog/1.webp" alt="" className="card-product__img" width={264} height={264} priority={false}/>
 			</div>
 			<div className="card-product__text-hold">
 				<a href="#" className="card-product__title-link">Планшет Lenovo Tab M10 Plus 4/128 Grey</a>
